@@ -1,6 +1,6 @@
 # (Sortable table)
 
-This is a [Sortable table](project link). 
+This is a [Sortable table](https://leandro-pixel.github.io/Sortable_table). 
 
 ## Table of contents
 
